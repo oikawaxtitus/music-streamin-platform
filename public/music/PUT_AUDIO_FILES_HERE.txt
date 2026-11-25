@@ -1,0 +1,1 @@
+Place your mp3 files in this folder. Example path in App.jsx: /music/dreams.mp3
